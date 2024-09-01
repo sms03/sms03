@@ -60,7 +60,9 @@
 
 ###
 
-<img align="right" height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVmOGYwYnJtdzhhOXZlcXJ5Nm1oY3ZreXZnZmMyNmswcTJlcHQxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4p0jdgX3oqFVtCzKdr/giphy.gif"  />
+<div align="center">
+  <img height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVmOGYwYnJtdzhhOXZlcXJ5Nm1oY3ZreXZnZmMyNmswcTJlcHQxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4p0jdgX3oqFVtCzKdr/giphy.gif"  />
+</div>
 
 ###
 
@@ -79,6 +81,8 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=sms03.sms03&left_color=aliceblue&right_color=azure&left_text=Profile%20Views"  />
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sms03.sms03&left_color=red&right_color=teal&left_text=Profile%20Views"  />
+</div>
 
 ###
