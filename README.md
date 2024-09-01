@@ -66,7 +66,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sms03/sms03/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/sms03/sms03/blob/main/github-user-contribution.svg" alt="Snake animation" />
 
 ###
 
