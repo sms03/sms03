@@ -41,6 +41,12 @@
 ###
 
 <div align="center">
+  <img height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVmOGYwYnJtdzhhOXZlcXJ5Nm1oY3ZreXZnZmMyNmswcTJlcHQxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4p0jdgX3oqFVtCzKdr/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
   <a href="shivamsal2000@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -59,14 +65,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVmOGYwYnJtdzhhOXZlcXJ5Nm1oY3ZreXZnZmMyNmswcTJlcHQxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4p0jdgX3oqFVtCzKdr/giphy.gif"  />
-</div>
-
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/sms03/sms03/output/snake.svg" alt="Snake animation" />
 
