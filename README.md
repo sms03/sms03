@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Astro, Nuxt, Unreal Engine, LLMS, MCP servers and AI Agents.**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/SMSXART | https://github.com/sms03](https://www.behance.net/SMSXART | https://github.com/sms03)
+- 👨‍💻 All of my projects are available at [https://www.behance.net/SMSXART | https://github.com/sms03]
 
 - 💬 Ask me about **Python, React, Cinema4D, Blender, Octane, AI, ML and DL.**
 
