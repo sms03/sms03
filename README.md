@@ -75,8 +75,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/replit/F26207" height="40" alt="replit logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/remix/000000" height="40" alt="remix logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
