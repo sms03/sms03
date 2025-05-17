@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam M. Salunkhe aka SMS.</h1>
+<h1 align="center">Hello 👋🏻, I'm Shivam M. Salunkhe aka SMS.</h1>
 <h3 align="center">AI Enthusiast, Prompt Engineer, 3D CGi & VFX Artist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sms03&label=Profile%20views&color=ff0a47&style=flat" alt="sms03" /> </p>
