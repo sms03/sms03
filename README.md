@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=44&duration=2000&pause=1000&color=FFF0DB&center=true&multiline=true&width=1280&height=480&lines=Hello+%22%F0%9F%91%8B%F0%9F%8F%BB%22;I+am+Shivam+M.+Salunkhe;aka+SMS.;AI+Enthusiast%2C+Prompt+Engineer%2C+3D+CGi+%26+VFX+Artist.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=FFF0DB&center=true&multiline=true&width=2048&height=480&lines=Hello+%22%F0%9F%91%8B%F0%9F%8F%BB%22;I+am+Shivam+M.+Salunkhe;aka+SMS.;AI+Enthusiast%2C+Prompt+Engineer%2C+3D+CGi+%26+VFX+Artist.)](https://git.io/typing-svg)
 
 <h1 align="center">Hello 👋🏻, I'm Shivam M. Salunkhe aka SMS.</h1>
 <h3 align="center">AI Enthusiast, Prompt Engineer, 3D CGi & VFX Artist.</h3>
