@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=4000&pause=700&color=FFF0DB&center=true&multiline=true&width=2048&height=360&lines=Hello+%22%F0%9F%91%8B%F0%9F%8F%BB%22;I+am+Shivam+M.+Salunkhe;aka+SMS.;AI+Enthusiast%2C+Prompt+Engineer%2C+3D+CGi+%26+VFX+Artist.)](https://git.io/typing-svg)
 
-<h1 align="center">Hello 👋🏻, I'm Shivam M. Salunkhe aka SMS.</h1>
-<h3 align="center">AI Enthusiast, Prompt Engineer, 3D CGi & VFX Artist.</h3>
+<!-- <h1 align="center">Hello 👋🏻, I'm Shivam M. Salunkhe aka SMS.</h1>
+<h3 align="center">AI Enthusiast, Prompt Engineer, 3D CGi & VFX Artist.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sms03&label=Profile%20views&color=ff0a47&style=flat" alt="sms03" /> </p>
 
