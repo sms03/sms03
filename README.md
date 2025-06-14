@@ -106,7 +106,7 @@
 
 ## 📊 GitHub Stats:
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=sms03&theme=ocean-gradient&hide_border=true&card_width=500&card_height=170)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sms03&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sms03&theme=rose&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍🏻 Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
