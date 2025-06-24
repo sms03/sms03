@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sms03&label=Visitors&color=ff0a47&style=flat" alt="sms03" /> </p>
 
-- 🔭 I’m currently working on [AI Agent & MCP Project](https://github.com/sms03/ytch-mcp) [and also UE5 Project.]
+- 🔭 I’m currently working on [AI Agent & MCP Project](https://github.com/sms03/) [and also UE5 Project.]
 
 - 🌱 I’m currently learning **Astro, Nuxt, Unreal Engine, LLMS, MCP servers and AI Agents.**
 
