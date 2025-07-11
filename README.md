@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://smsx.netlify.app/](https://smsx.netlify.app/)
 
-- ⚡ Fun fact **AI will not replace us HUMANS!**
+- ⚡ Fun fact **AI will not replace HUMANS!**
 
 
 
