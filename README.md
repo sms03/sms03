@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AI Agent & MCP Project](https://github.com/sms03?tab=repositories) [and also UE5 Project.]
 
-- 🌱 I’m currently learning **Astro, Nuxt, Unreal Engine, LLMS, MCP servers and AI Agents.**
+- 🌱 I’m currently learning **Astro, NextJS, Unreal Engine, LLMS, MCP servers and AI Agents.**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/SMSXART | https://github.com/sms03]
 
